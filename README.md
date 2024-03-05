@@ -1,3 +1,5 @@
+![Screenshot_20230224_064814](https://github.com/Mathew-Tomy/-React-js-Zomatto-food-app-/assets/159645212/aa3f7c83-558d-45be-9374-fb6fa624acd7)
+![Screenshot_20230224_064851](https://github.com/Mathew-Tomy/-React-js-Zomatto-food-app-/assets/159645212/2b1aa293-b98f-450b-820a-694b57f82107)
 <<<<<<< HEAD
 # Getting Started with Create React App
 
